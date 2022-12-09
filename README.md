@@ -1,5 +1,5 @@
 # tetris
-![image](https://i.imgur.com/RNV6dQC.mp4)
+![image] (https://i.imgur.com/RNV6dQC.mp4)  
 一個可以在windows終端機裡跑的俄羅斯方塊  
 算寫來練練C++的手感  
 差不多是硬刻出來的  
